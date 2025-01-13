@@ -30,7 +30,7 @@ The benchmark will run three implementations:
 2. Simple bitmap allocator
 3. Optimized bitmap with block groups
 
-For detailed technical information, please refer to the paper: [RB-tree Block Space Management](https://gist.github.com/mehrantsi/f704131cd6de321041a5c4b4c6e02e8a)
+For detailed technical information, please refer to the paper: [RB-tree Block Space Management](https://gist.github.com/mehrantsi/6ee0a5ad9beb036f31f30b7227e1af18)
 
 ## License
 
